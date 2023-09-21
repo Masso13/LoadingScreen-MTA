@@ -1,0 +1,28 @@
+<meta>
+    <script src="shared.lua" type="shared"/>
+    <script src="scriptC.lua" type="client"></script>
+
+    <file src="frames/background.png"/>
+    <file src="frames/fundo1.jpg"/>
+    <file src="frames/fundo2.jpg"/>
+    <file src="frames/fundo3.jpg"/>
+    <file src="frames/fundo4.jpg"/>
+    <file src="frames/fundo5.jpg"/>
+    <file src="frames/fundo6.jpg"/>
+    <file src="frames/fundo7.jpg"/>
+    <file src="frames/fundo8.jpg"/>
+    <file src="frames/fundo9.jpg"/>
+    <file src="frames/fundo10.jpg"/>
+    <file src="frames/fundo11.jpg"/>
+    <file src="frames/fundo12.jpg"/>
+    <file src="frames/fundo13.jpg"/>
+    <file src="frames/fundo14.jpg"/>
+    <file src="frames/fundo15.jpg"/>
+    <file src="frames/fundo16.jpg"/>
+    <file src="frames/fundo17.jpg"/>
+    <file src="frames/fundo18.jpg"/>
+    <file src="frames/fundo19.jpg"/>
+
+    <download_priority_group>19</download_priority_group>
+    <min_mta_version client="1.5.8-9.20788" />
+</meta>
